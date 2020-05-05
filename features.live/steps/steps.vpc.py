@@ -1,5 +1,4 @@
 ﻿import boto3
-
 from behave import given, when, then
 
 EC2 = boto3.client("ec2")
