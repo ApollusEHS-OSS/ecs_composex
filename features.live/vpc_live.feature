@@ -18,4 +18,5 @@ Feature: vpc-live
 
     Examples: VPC Name
     |name|
+    |case01|
     |case02|
